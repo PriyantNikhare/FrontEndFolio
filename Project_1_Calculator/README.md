@@ -36,6 +36,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## 🔗 Connect with Me
-- **Email**: [priyant.p.nikhare@gmail.com]
+- **Email**: priyant.p.nikhare@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/PriyantNikhare)
 - [Twitter](https://twitter.com/Priyant_Nikhare)
