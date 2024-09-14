@@ -28,8 +28,8 @@ This repository showcases my web development projects, highlighting my skills in
 ### 4. **Connect Four Game**
    - **Description**: A browser-based Connect Four game where two players take turns to connect four discs in a row, column, or diagonal.
    - **Tech Stack**: HTML, CSS, JavaScript
-   - **Live Demo**: [Link to Project Demo]  
-   - **Source Code**: [Link to Code]
+   - **Live Demo**: [Link to Project Demo](https://priyantnikhare.github.io/FrontEndFolio/Project_4_Connect_Four_Game/Index.htm) 
+   - **Source Code**: [Link to Code](./Project_4_Connect_Four_Game/)
 
 ---
 
