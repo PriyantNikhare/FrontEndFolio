@@ -26,7 +26,7 @@ This project is a simple, responsive calculator built using **HTML** and **CSS**
 ---
 
 ## 🌐 Live Demo
-Check out the live demo of the calculator [here](#).
+Check out the live demo of the calculator [here](https://priyantnikhare.github.io/FrontEndFolio/Project_1_Calculator/Calculator.html).
 
 ---
 
