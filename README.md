@@ -16,8 +16,8 @@ This repository showcases my web development projects, highlighting my skills in
 ### 2. **ECommerce Website**
    - **Description**: A basic eCommerce website layout with product listings and a clean, responsive design.
    - **Tech Stack**: HTML, CSS
-   - **Live Demo**: [Link to Project Demo]  
-   - **Source Code**: [Link to Code]
+   - **Live Demo**: [Link to Project Demo](https://priyantnikhare.github.io/FrontEndFolio/Project_2_ECommerce/ECommerce.html)  
+   - **Source Code**: [Link to Code](./Project_2_ECommerce/)
 
 ### 3. **To-Do List App**
    - **Description**: A dynamic to-do list application where users can add, edit, and delete tasks. Built with JavaScript for interactivity.
