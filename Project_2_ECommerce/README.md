@@ -27,7 +27,7 @@ This project is a simple **ECommerce Website** built using **HTML** and **CSS**.
 ---
 
 ## 🌐 Live Demo
-Check out the live demo of the ECommerce Website [here](#).
+Check out the live demo of the ECommerce Website [here](https://priyantnikhare.github.io/FrontEndFolio/Project_2_ECommerce/ECommerce.html).
 
 ---
 
