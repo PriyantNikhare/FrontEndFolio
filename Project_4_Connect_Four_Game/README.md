@@ -28,7 +28,7 @@ The **Connect Four Game** is a classic two-player strategy game where the goal i
 ---
 
 ## 🌐 Live Demo
-Check out the live demo of the Connect Four Game [here](#).
+Check out the live demo of the Connect Four Game [here](https://priyantnikhare.github.io/FrontEndFolio/Project_4_Connect_Four_Game/Index.htm).
 
 ---
 
