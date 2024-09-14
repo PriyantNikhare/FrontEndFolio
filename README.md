@@ -22,8 +22,8 @@ This repository showcases my web development projects, highlighting my skills in
 ### 3. **To-Do List App**
    - **Description**: A dynamic to-do list application where users can add, edit, and delete tasks. Built with JavaScript for interactivity.
    - **Tech Stack**: HTML, CSS, JavaScript
-   - **Live Demo**: [Link to Project Demo]  
-   - **Source Code**: [Link to Code]
+   - **Live Demo**: [Link to Project Demo](https://priyantnikhare.github.io/FrontEndFolio/Project_3_ToDoList/index.html)  
+   - **Source Code**: [Link to Code](./Project_3_ToDoList/)
 
 ### 4. **Connect Four Game**
    - **Description**: A browser-based Connect Four game where two players take turns to connect four discs in a row, column, or diagonal.
