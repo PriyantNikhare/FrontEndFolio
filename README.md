@@ -1,7 +1,3 @@
-Here's an updated **README.md** file with your specified projects:
-
----
-
 # FrontEndFolio 🌐
 
 **Welcome to FrontEndFolio!**  
@@ -64,8 +60,4 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nikharepriyant)  
 - [Twitter](https://twitter.com/Priyant_Nikhare)  
-- [Priyant P. Nikhare](mailto:priyant.p.nikhare@gmail.com)
-
----
-
-You can update the links and project demos as they are added to your repository!
+- **Email**: [priyant.p.nikhare@gmail.com]
