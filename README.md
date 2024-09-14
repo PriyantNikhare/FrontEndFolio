@@ -10,7 +10,7 @@ This repository showcases my web development projects, highlighting my skills in
 ### 1. **Calculator**
    - **Description**: A simple, responsive calculator built with HTML and CSS, designed to handle basic arithmetic operations.
    - **Tech Stack**: HTML, CSS
-   - **Live Demo**: [Link to Project Demo]  
+   - **Live Demo**: [[Link to Project Demo](https://priyantnikhare.github.io/FrontEndFolio/Project_1_Calculator/Calculator.html)]  
    - **Source Code**: [Link to Code]
 
 ### 2. **ECommerce Website**
