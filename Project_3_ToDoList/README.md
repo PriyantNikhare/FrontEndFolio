@@ -28,7 +28,7 @@ The **To-Do List App** is a simple and interactive web application designed to h
 ---
 
 ## 🌐 Live Demo
-Check out the live demo of the To-Do List App [here](#).
+Check out the live demo of the To-Do List App [here](https://priyantnikhare.github.io/FrontEndFolio/Project_3_ToDoList/index.html).
 
 ---
 
