@@ -61,3 +61,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 - [LinkedIn](https://www.linkedin.com/in/nikharepriyant)  
 - [Twitter](https://twitter.com/Priyant_Nikhare)  
 - **Email**: priyant.p.nikhare@gmail.com
+
+---
+
+Thank you for visiting **FrontEndFolio**! Happy coding!
